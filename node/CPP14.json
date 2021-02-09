@@ -1,0 +1,562 @@
+{
+  "cvqualifier": {
+    "Java8": [
+      "42",
+      "42",
+      "42"
+    ],
+    "JavaScript": [
+      "42"
+    ]
+  },
+  "expressionlist": {
+    "Java8": [
+      "49"
+    ],
+    "Python3": [
+      "49"
+    ],
+    "JavaScript": [
+      "49"
+    ]
+  },
+  "initializerlist": {
+    "Java8": [
+      "55"
+    ],
+    "Python3": [
+      "55"
+    ],
+    "JavaScript": [
+      "55"
+    ]
+  },
+  "lambdaexpression": {
+    "Java8": [
+      "56"
+    ],
+    "Python3": [
+      "56",
+      "56"
+    ]
+  },
+  "conditionalexpression": {
+    "Java8": [
+      "52"
+    ]
+  },
+  "expression": {
+    "Java8": [
+      "50"
+    ],
+    "Python3": [
+      "50"
+    ],
+    "JavaScript": [
+      "50"
+    ]
+  },
+  "andexpression": {
+    "Java8": [
+      "10"
+    ],
+    "Python3": [
+      "10"
+    ],
+    "JavaScript": [
+      "10"
+    ]
+  },
+  "userdefinedliteral": {
+    "Java8": [
+      "51"
+    ],
+    "Python3": [
+      "51",
+      "51"
+    ],
+    "JavaScript": [
+      "51",
+      "51"
+    ]
+  },
+  "statementseq": {
+    "Java8": [
+      "38"
+    ],
+    "Python3": [
+      "38"
+    ],
+    "JavaScript": [
+      "38"
+    ]
+  },
+  "assignmentexpression": {
+    "Java8": [
+      "5"
+    ],
+    "Python3": [
+      "5"
+    ],
+    "JavaScript": [
+      "5"
+    ]
+  },
+  "inclusiveorexpression": {
+    "Java8": [
+      "8"
+    ],
+    "Python3": [
+      "8"
+    ]
+  },
+  "iterationstatement": {
+    "Java8": [
+      "18",
+      "18",
+      "20",
+      "20",
+      "19"
+    ],
+    "Python3": [
+      "18",
+      "20"
+    ],
+    "JavaScript": [
+      "18",
+      "20",
+      "19"
+    ]
+  },
+  "booleanliteral": {
+    "Java8": [
+      "51"
+    ],
+    "Python3": [
+      "51",
+      "51"
+    ],
+    "JavaScript": [
+      "51",
+      "51"
+    ]
+  },
+  "primaryexpression": {
+    "Java8": [
+      "53",
+      "53"
+    ],
+    "JavaScript": [
+      "53"
+    ]
+  },
+  "unqualifiedid": {
+    "Java8": [
+      "53",
+      "53"
+    ],
+    "JavaScript": [
+      "53"
+    ]
+  },
+  "selectionstatement": {
+    "Java8": [
+      "1",
+      "1",
+      "1",
+      "3"
+    ],
+    "Python3": [
+      "1"
+    ],
+    "JavaScript": [
+      "1",
+      "3"
+    ]
+  },
+  "initdeclaratorlist": {
+    "Java8": [
+      "40"
+    ],
+    "Python3": [
+      "40"
+    ],
+    "JavaScript": [
+      "40"
+    ]
+  },
+  "compoundstatement": {
+    "Java8": [
+      "37"
+    ],
+    "Python3": [
+      "37"
+    ],
+    "JavaScript": [
+      "37"
+    ]
+  },
+  "unaryexpression": {
+    "Java8": [
+      "16"
+    ],
+    "Python3": [
+      "16",
+      "16"
+    ],
+    "JavaScript": [
+      "16"
+    ]
+  },
+  "jumpstatement": {
+    "Java8": [
+      "25",
+      "24",
+      "23",
+      "26"
+    ],
+    "Python3": [
+      "25",
+      "24",
+      "23",
+      "26"
+    ],
+    "JavaScript": [
+      "25",
+      "24",
+      "23"
+    ]
+  },
+  "deleteexpression": {
+    "Python3": [
+      "58"
+    ],
+    "JavaScript": [
+      "58"
+    ]
+  },
+  "assignmentoperator": {
+    "Java8": [
+      "22"
+    ],
+    "Python3": [
+      "22"
+    ],
+    "JavaScript": [
+      "22"
+    ]
+  },
+  "labeledstatement": {
+    "Java8": [
+      "4",
+      "32",
+      "32"
+    ],
+    "JavaScript": [
+      "4",
+      "32"
+    ]
+  },
+  "additiveexpression": {
+    "Java8": [
+      "14"
+    ],
+    "Python3": [
+      "14"
+    ],
+    "JavaScript": [
+      "14"
+    ]
+  },
+  "exclusiveorexpression": {
+    "Java8": [
+      "9"
+    ],
+    "Python3": [
+      "9"
+    ],
+    "JavaScript": [
+      "9"
+    ]
+  },
+  "functiondefinition": {
+    "Java8": [
+      "34"
+    ],
+    "Python3": [
+      "34"
+    ],
+    "JavaScript": [
+      "34"
+    ]
+  },
+  "relationalexpression": {
+    "Java8": [
+      "12"
+    ]
+  },
+  "simpletypespecifier": {
+    "Java8": [
+      "43"
+    ]
+  },
+  "handler": {
+    "Java8": [
+      "29"
+    ],
+    "JavaScript": [
+      "29"
+    ]
+  },
+  "emptydeclaration": {
+    "Java8": [
+      "31"
+    ],
+    "JavaScript": [
+      "31"
+    ]
+  },
+  "statement": {
+    "Java8": [
+      "2"
+    ],
+    "Python3": [
+      "2"
+    ],
+    "JavaScript": [
+      "2"
+    ]
+  },
+  "tryblock": {
+    "Java8": [
+      "28"
+    ],
+    "Python3": [
+      "28"
+    ],
+    "JavaScript": [
+      "28"
+    ]
+  },
+  "initdeclarator": {
+    "Java8": [
+      "41"
+    ],
+    "JavaScript": [
+      "41"
+    ]
+  },
+  "parameterdeclarationclaus": {
+    "Java8": [
+      "44"
+    ],
+    "Python3": [
+      "44"
+    ],
+    "JavaScript": [
+      "44"
+    ]
+  },
+  "memberspecification": {
+    "Java8": [
+      "36"
+    ],
+    "Python3": [
+      "36"
+    ],
+    "JavaScript": [
+      "36"
+    ]
+  },
+  "noptrdeclarator": {
+    "Java8": [
+      "48"
+    ]
+  },
+  "static_assertdeclaration": {
+    "Java8": [
+      "60"
+    ],
+    "Python3": [
+      "60"
+    ]
+  },
+  "shiftexpression": {
+    "Java8": [
+      "13"
+    ],
+    "Python3": [
+      "13"
+    ],
+    "JavaScript": [
+      "13"
+    ]
+  },
+  "classspecifier": {
+    "Java8": [
+      "35"
+    ],
+    "Python3": [
+      "35"
+    ],
+    "JavaScript": [
+      "35"
+    ]
+  },
+  "pointerliteral": {
+    "Java8": [
+      "51"
+    ],
+    "Python3": [
+      "51",
+      "51"
+    ],
+    "JavaScript": [
+      "51",
+      "51"
+    ]
+  },
+  "parameterdeclaration": {
+    "Java8": [
+      "45"
+    ],
+    "Python3": [
+      "45"
+    ],
+    "JavaScript": [
+      "45"
+    ]
+  },
+  "logicalorexpression": {
+    "Java8": [
+      "6"
+    ],
+    "Python3": [
+      "6"
+    ],
+    "JavaScript": [
+      "6"
+    ]
+  },
+  "equalityexpression": {
+    "Java8": [
+      "11"
+    ]
+  },
+  "logicalandexpression": {
+    "Java8": [
+      "7"
+    ],
+    "Python3": [
+      "7"
+    ],
+    "JavaScript": [
+      "7"
+    ]
+  },
+  "bracedinitlist": {
+    "Java8": [
+      "54",
+      "54",
+      "54",
+      "54"
+    ],
+    "Python3": [
+      "54"
+    ],
+    "JavaScript": [
+      "54"
+    ]
+  },
+  "multiplicativeexpression": {
+    "Java8": [
+      "15"
+    ],
+    "Python3": [
+      "15"
+    ],
+    "JavaScript": [
+      "15"
+    ]
+  },
+  "initializerclause": {
+    "Java8": [
+      "50"
+    ],
+    "Python3": [
+      "50"
+    ],
+    "JavaScript": [
+      "50"
+    ]
+  },
+  "forinitstatement": {
+    "Java8": [
+      "21"
+    ]
+  },
+  "postfixexpression": {
+    "Java8": [
+      "17"
+    ],
+    "JavaScript": [
+      "17"
+    ]
+  },
+  "functionbody": {
+    "Java8": [
+      "47"
+    ],
+    "Python3": [
+      "47"
+    ],
+    "JavaScript": [
+      "47"
+    ]
+  },
+  "literal": {
+    "Java8": [
+      "51"
+    ],
+    "Python3": [
+      "51",
+      "51"
+    ],
+    "JavaScript": [
+      "51",
+      "51"
+    ]
+  },
+  "identifier": {
+    "Java8": [
+      "46"
+    ],
+    "Python3": [
+      "46"
+    ],
+    "JavaScript": [
+      "46"
+    ]
+  },
+  "throwexpression": {
+    "Java8": [
+      "33"
+    ],
+    "Python3": [
+      "33"
+    ],
+    "JavaScript": [
+      "33"
+    ]
+  },
+  "simpledeclaration": {
+    "Java8": [
+      "39",
+      "39",
+      "39"
+    ],
+    "JavaScript": [
+      "39"
+    ]
+  }
+}

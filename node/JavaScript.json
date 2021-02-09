@@ -1,0 +1,419 @@
+{
+  "singleExpression": {
+    "Java8": [
+      "7",
+      "15",
+      "10",
+      "50",
+      "9",
+      "6",
+      "17",
+      "5",
+      "14",
+      "16",
+      "13"
+    ],
+    "Python3": [
+      "7",
+      "15",
+      "10",
+      "58",
+      "50",
+      "9",
+      "6",
+      "5",
+      "14",
+      "16",
+      "16",
+      "13"
+    ],
+    "CPP14": [
+      "7",
+      "15",
+      "10",
+      "58",
+      "50",
+      "50",
+      "9",
+      "6",
+      "17",
+      "5",
+      "14",
+      "16",
+      "13"
+    ]
+  },
+  "assignmentOperator": {
+    "Java8": [
+      "22"
+    ],
+    "Python3": [
+      "22"
+    ],
+    "CPP14": [
+      "22"
+    ]
+  },
+  "returnStatement": {
+    "Java8": [
+      "25"
+    ],
+    "Python3": [
+      "25"
+    ],
+    "CPP14": [
+      "25"
+    ]
+  },
+  "tryStatement": {
+    "Java8": [
+      "28"
+    ],
+    "Python3": [
+      "28"
+    ],
+    "CPP14": [
+      "28"
+    ]
+  },
+  "functionDeclaration": {
+    "Java8": [
+      "34"
+    ],
+    "Python3": [
+      "34"
+    ],
+    "CPP14": [
+      "34"
+    ]
+  },
+  "switchStatement": {
+    "Java8": [
+      "3"
+    ],
+    "CPP14": [
+      "3"
+    ]
+  },
+  "classDeclaration": {
+    "Java8": [
+      "35"
+    ],
+    "Python3": [
+      "35"
+    ],
+    "CPP14": [
+      "35"
+    ]
+  },
+  "formalParameter": {
+    "Java8": [
+      "45"
+    ],
+    "Python3": [
+      "45"
+    ],
+    "CPP14": [
+      "45"
+    ]
+  },
+  "formalParameterList": {
+    "Java8": [
+      "44"
+    ],
+    "Python3": [
+      "44"
+    ],
+    "CPP14": [
+      "44"
+    ]
+  },
+  "statementList": {
+    "Java8": [
+      "38"
+    ],
+    "Python3": [
+      "38"
+    ],
+    "CPP14": [
+      "38"
+    ]
+  },
+  "elementList": {
+    "Java8": [
+      "55"
+    ],
+    "Python3": [
+      "55"
+    ],
+    "CPP14": [
+      "55"
+    ]
+  },
+  "variableStatement": {
+    "Java8": [
+      "39",
+      "39",
+      "39"
+    ],
+    "CPP14": [
+      "39"
+    ]
+  },
+  "continueStatement": {
+    "Java8": [
+      "23"
+    ],
+    "Python3": [
+      "23"
+    ],
+    "CPP14": [
+      "23"
+    ]
+  },
+  "iterationStatement": {
+    "Java8": [
+      "18",
+      "18",
+      "20",
+      "20",
+      "19"
+    ],
+    "Python3": [
+      "18",
+      "20"
+    ],
+    "CPP14": [
+      "18",
+      "20",
+      "19"
+    ]
+  },
+  "withStatement": {
+    "Python3": [
+      "27"
+    ]
+  },
+  "variableDeclarationList": {
+    "Java8": [
+      "40"
+    ],
+    "Python3": [
+      "40"
+    ],
+    "CPP14": [
+      "40"
+    ]
+  },
+  "finallyProduction": {
+    "Java8": [
+      "30"
+    ]
+  },
+  "breakStatement": {
+    "Java8": [
+      "24"
+    ],
+    "Python3": [
+      "24"
+    ],
+    "CPP14": [
+      "24"
+    ]
+  },
+  "parenthesized_Expression": {
+    "Java8": [
+      "53",
+      "53"
+    ],
+    "CPP14": [
+      "53",
+      "53"
+    ]
+  },
+  "caseBlock": {
+    "Java8": [
+      "4"
+    ],
+    "CPP14": [
+      "4"
+    ]
+  },
+  "variableDeclaration": {
+    "Java8": [
+      "41"
+    ],
+    "CPP14": [
+      "41"
+    ]
+  },
+  "ifStatement": {
+    "Java8": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Python3": [
+      "1"
+    ],
+    "CPP14": [
+      "1"
+    ]
+  },
+  "catchProduction": {
+    "Java8": [
+      "29"
+    ],
+    "CPP14": [
+      "29"
+    ]
+  },
+  "arrayLiteral": {
+    "Java8": [
+      "54",
+      "54",
+      "54",
+      "54"
+    ],
+    "Python3": [
+      "54"
+    ],
+    "CPP14": [
+      "54"
+    ]
+  },
+  "functionBody": {
+    "Java8": [
+      "47"
+    ],
+    "Python3": [
+      "47"
+    ],
+    "CPP14": [
+      "47"
+    ]
+  },
+  "varModifier": {
+    "Java8": [
+      "42",
+      "42",
+      "42"
+    ],
+    "CPP14": [
+      "42"
+    ]
+  },
+  "block": {
+    "Java8": [
+      "37"
+    ],
+    "Python3": [
+      "37"
+    ],
+    "CPP14": [
+      "37"
+    ]
+  },
+  "classElement": {
+    "Java8": [
+      "36"
+    ],
+    "Python3": [
+      "36"
+    ],
+    "CPP14": [
+      "36"
+    ]
+  },
+  "literal": {
+    "Java8": [
+      "51"
+    ],
+    "Python3": [
+      "51",
+      "51"
+    ],
+    "CPP14": [
+      "51",
+      "51",
+      "51",
+      "51"
+    ]
+  },
+  "identifier": {
+    "Java8": [
+      "46"
+    ],
+    "Python3": [
+      "46"
+    ],
+    "CPP14": [
+      "46"
+    ]
+  },
+  "labelledStatement": {
+    "Java8": [
+      "32",
+      "32"
+    ],
+    "CPP14": [
+      "32"
+    ]
+  },
+  "emptyStatement": {
+    "Java8": [
+      "31"
+    ],
+    "CPP14": [
+      "31"
+    ]
+  },
+  "throwStatement": {
+    "Java8": [
+      "33"
+    ],
+    "Python3": [
+      "33"
+    ],
+    "CPP14": [
+      "33"
+    ]
+  },
+  "statement": {
+    "Java8": [
+      "2"
+    ],
+    "Python3": [
+      "2"
+    ],
+    "CPP14": [
+      "2"
+    ]
+  },
+  "numericLiteral": {
+    "Java8": [
+      "51"
+    ],
+    "Python3": [
+      "51",
+      "51"
+    ],
+    "CPP14": [
+      "51",
+      "51",
+      "51",
+      "51"
+    ]
+  },
+  "arguments": {
+    "Java8": [
+      "49"
+    ],
+    "Python3": [
+      "49"
+    ],
+    "CPP14": [
+      "49"
+    ]
+  }
+}

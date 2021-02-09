@@ -1,0 +1,453 @@
+{
+  "raise_stmt": {
+    "Java8": [
+      "33"
+    ],
+    "CPP14": [
+      "33"
+    ],
+    "JavaScript": [
+      "33"
+    ]
+  },
+  "expr": {
+    "Java8": [
+      "8"
+    ],
+    "CPP14": [
+      "8"
+    ]
+  },
+  "suite": {
+    "Java8": [
+      "36",
+      "37",
+      "47",
+      "38"
+    ],
+    "CPP14": [
+      "36",
+      "37",
+      "47",
+      "38"
+    ],
+    "JavaScript": [
+      "36",
+      "37",
+      "47",
+      "38"
+    ]
+  },
+  "flow_stmt": {
+    "Java8": [
+      "26"
+    ],
+    "CPP14": [
+      "26"
+    ]
+  },
+  "while_stmt": {
+    "Java8": [
+      "18",
+      "18"
+    ],
+    "CPP14": [
+      "18"
+    ],
+    "JavaScript": [
+      "18"
+    ]
+  },
+  "lambdef_nocond": {
+    "Java8": [
+      "56"
+    ],
+    "CPP14": [
+      "56"
+    ]
+  },
+  "if_stmt": {
+    "Java8": [
+      "1",
+      "1",
+      "1"
+    ],
+    "CPP14": [
+      "1"
+    ],
+    "JavaScript": [
+      "1"
+    ]
+  },
+  "number": {
+    "Java8": [
+      "51"
+    ],
+    "CPP14": [
+      "51",
+      "51",
+      "51",
+      "51"
+    ],
+    "JavaScript": [
+      "51",
+      "51"
+    ]
+  },
+  "try_stmt": {
+    "Java8": [
+      "28"
+    ],
+    "CPP14": [
+      "28"
+    ],
+    "JavaScript": [
+      "28"
+    ]
+  },
+  "arglist": {
+    "Java8": [
+      "49"
+    ],
+    "CPP14": [
+      "49"
+    ],
+    "JavaScript": [
+      "49"
+    ]
+  },
+  "term": {
+    "Java8": [
+      "15"
+    ],
+    "CPP14": [
+      "15"
+    ],
+    "JavaScript": [
+      "15"
+    ]
+  },
+  "xor_expr": {
+    "Java8": [
+      "9"
+    ],
+    "CPP14": [
+      "9"
+    ],
+    "JavaScript": [
+      "9"
+    ]
+  },
+  "del_stmt": {
+    "CPP14": [
+      "58"
+    ],
+    "JavaScript": [
+      "58"
+    ]
+  },
+  "break_stmt": {
+    "Java8": [
+      "24"
+    ],
+    "CPP14": [
+      "24"
+    ],
+    "JavaScript": [
+      "24"
+    ]
+  },
+  "assert_stmt": {
+    "Java8": [
+      "60"
+    ],
+    "CPP14": [
+      "60"
+    ]
+  },
+  "for_stmt": {
+    "Java8": [
+      "20",
+      "20"
+    ],
+    "CPP14": [
+      "20"
+    ],
+    "JavaScript": [
+      "20"
+    ]
+  },
+  "classdef": {
+    "Java8": [
+      "35"
+    ],
+    "CPP14": [
+      "35"
+    ],
+    "JavaScript": [
+      "35"
+    ]
+  },
+  "name": {
+    "Java8": [
+      "46"
+    ],
+    "CPP14": [
+      "46"
+    ],
+    "JavaScript": [
+      "46"
+    ]
+  },
+  "augassign": {
+    "Java8": [
+      "22"
+    ],
+    "CPP14": [
+      "22"
+    ],
+    "JavaScript": [
+      "22"
+    ]
+  },
+  "typedargslist": {
+    "Java8": [
+      "44"
+    ],
+    "CPP14": [
+      "44"
+    ],
+    "JavaScript": [
+      "44"
+    ]
+  },
+  "factor": {
+    "Java8": [
+      "16"
+    ],
+    "CPP14": [
+      "16"
+    ],
+    "JavaScript": [
+      "16"
+    ]
+  },
+  "lambdef": {
+    "Java8": [
+      "56"
+    ],
+    "CPP14": [
+      "56"
+    ]
+  },
+  "funcdef": {
+    "Java8": [
+      "34"
+    ],
+    "CPP14": [
+      "34"
+    ],
+    "JavaScript": [
+      "34"
+    ]
+  },
+  "continue_stmt": {
+    "Java8": [
+      "23"
+    ],
+    "CPP14": [
+      "23"
+    ],
+    "JavaScript": [
+      "23"
+    ]
+  },
+  "testlist_comp": {
+    "Java8": [
+      "55"
+    ],
+    "CPP14": [
+      "55"
+    ],
+    "JavaScript": [
+      "55"
+    ]
+  },
+  "with_stmt": {
+    "JavaScript": [
+      "27"
+    ]
+  },
+  "not_test": {
+    "Java8": [
+      "16"
+    ],
+    "CPP14": [
+      "16"
+    ],
+    "JavaScript": [
+      "16"
+    ]
+  },
+  "string": {
+    "Java8": [
+      "51"
+    ],
+    "CPP14": [
+      "51",
+      "51",
+      "51",
+      "51"
+    ],
+    "JavaScript": [
+      "51",
+      "51"
+    ]
+  },
+  "return_stmt": {
+    "Java8": [
+      "25"
+    ],
+    "CPP14": [
+      "25"
+    ],
+    "JavaScript": [
+      "25"
+    ]
+  },
+  "expr_stmt": {
+    "Java8": [
+      "40"
+    ],
+    "CPP14": [
+      "40"
+    ],
+    "JavaScript": [
+      "40"
+    ]
+  },
+  "atom": {
+    "Java8": [
+      "54",
+      "54",
+      "54",
+      "54"
+    ],
+    "CPP14": [
+      "54"
+    ],
+    "JavaScript": [
+      "54"
+    ]
+  },
+  "arith_expr": {
+    "Java8": [
+      "14"
+    ],
+    "CPP14": [
+      "14"
+    ],
+    "JavaScript": [
+      "14"
+    ]
+  },
+  "and_test": {
+    "Java8": [
+      "7"
+    ],
+    "CPP14": [
+      "7"
+    ],
+    "JavaScript": [
+      "7"
+    ]
+  },
+  "or_test": {
+    "Java8": [
+      "6"
+    ],
+    "CPP14": [
+      "6"
+    ],
+    "JavaScript": [
+      "6"
+    ]
+  },
+  "shift_expr": {
+    "Java8": [
+      "13"
+    ],
+    "CPP14": [
+      "13"
+    ],
+    "JavaScript": [
+      "13"
+    ]
+  },
+  "comparison": {
+    "Java8": [
+      "5"
+    ],
+    "CPP14": [
+      "5"
+    ],
+    "JavaScript": [
+      "5"
+    ]
+  },
+  "and_expr": {
+    "Java8": [
+      "10"
+    ],
+    "CPP14": [
+      "10"
+    ],
+    "JavaScript": [
+      "10"
+    ]
+  },
+  "compound_stmt": {
+    "Java8": [
+      "2"
+    ],
+    "CPP14": [
+      "2"
+    ],
+    "JavaScript": [
+      "2"
+    ]
+  },
+  "tfpdef": {
+    "Java8": [
+      "45"
+    ],
+    "CPP14": [
+      "45"
+    ],
+    "JavaScript": [
+      "45"
+    ]
+  },
+  "decorator": {
+    "Java8": [
+      "57"
+    ]
+  },
+  "test": {
+    "Java8": [
+      "50"
+    ],
+    "CPP14": [
+      "50",
+      "50"
+    ],
+    "JavaScript": [
+      "50"
+    ]
+  },
+  "import_stmt": {
+    "Java8": [
+      "59"
+    ]
+  }
+}

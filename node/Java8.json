@@ -1,0 +1,668 @@
+{
+  "arrayAccess_lf_primary": {
+    "CPP14": [
+      "54"
+    ],
+    "Python3": [
+      "54"
+    ],
+    "JavaScript": [
+      "54"
+    ]
+  },
+  "primary": {
+    "CPP14": [
+      "53",
+      "53"
+    ],
+    "JavaScript": [
+      "53"
+    ]
+  },
+  "assignment": {
+    "CPP14": [
+      "5"
+    ],
+    "Python3": [
+      "5"
+    ],
+    "JavaScript": [
+      "5"
+    ]
+  },
+  "lambdaExpression": {
+    "CPP14": [
+      "56"
+    ],
+    "Python3": [
+      "56",
+      "56"
+    ]
+  },
+  "returnStatement": {
+    "CPP14": [
+      "25"
+    ],
+    "Python3": [
+      "25"
+    ],
+    "JavaScript": [
+      "25"
+    ]
+  },
+  "conditionalOrExpression": {
+    "CPP14": [
+      "6"
+    ],
+    "Python3": [
+      "6"
+    ],
+    "JavaScript": [
+      "6"
+    ]
+  },
+  "expression": {
+    "CPP14": [
+      "50",
+      "50"
+    ],
+    "Python3": [
+      "50"
+    ],
+    "JavaScript": [
+      "50"
+    ]
+  },
+  "constantDeclaration": {
+    "CPP14": [
+      "39"
+    ],
+    "JavaScript": [
+      "39"
+    ]
+  },
+  "fieldDeclaration": {
+    "CPP14": [
+      "39"
+    ],
+    "JavaScript": [
+      "39"
+    ]
+  },
+  "arrayAccess": {
+    "CPP14": [
+      "54"
+    ],
+    "Python3": [
+      "54"
+    ],
+    "JavaScript": [
+      "54"
+    ]
+  },
+  "formalParameterList": {
+    "CPP14": [
+      "44"
+    ],
+    "Python3": [
+      "44"
+    ],
+    "JavaScript": [
+      "44"
+    ]
+  },
+  "exclusiveOrExpression": {
+    "CPP14": [
+      "9"
+    ],
+    "Python3": [
+      "9"
+    ],
+    "JavaScript": [
+      "9"
+    ]
+  },
+  "postfixExpression": {
+    "CPP14": [
+      "17"
+    ],
+    "JavaScript": [
+      "17"
+    ]
+  },
+  "switchBlock": {
+    "CPP14": [
+      "4"
+    ],
+    "JavaScript": [
+      "4"
+    ]
+  },
+  "continueStatement": {
+    "CPP14": [
+      "23"
+    ],
+    "Python3": [
+      "23"
+    ],
+    "JavaScript": [
+      "23"
+    ]
+  },
+  "methodDeclarator": {
+    "CPP14": [
+      "48"
+    ]
+  },
+  "ifThenStatement": {
+    "CPP14": [
+      "1"
+    ],
+    "Python3": [
+      "1"
+    ],
+    "JavaScript": [
+      "1"
+    ]
+  },
+  "labeledStatementNoShortIf": {
+    "CPP14": [
+      "32"
+    ],
+    "JavaScript": [
+      "32"
+    ]
+  },
+  "breakStatement": {
+    "CPP14": [
+      "24"
+    ],
+    "Python3": [
+      "24"
+    ],
+    "JavaScript": [
+      "24"
+    ]
+  },
+  "multiplicativeExpression": {
+    "CPP14": [
+      "15"
+    ],
+    "Python3": [
+      "15"
+    ],
+    "JavaScript": [
+      "15"
+    ]
+  },
+  "importDeclaration": {
+    "Python3": [
+      "59"
+    ]
+  },
+  "andExpression": {
+    "CPP14": [
+      "10"
+    ],
+    "Python3": [
+      "10"
+    ],
+    "JavaScript": [
+      "10"
+    ]
+  },
+  "classDeclaration": {
+    "CPP14": [
+      "35"
+    ],
+    "Python3": [
+      "35"
+    ],
+    "JavaScript": [
+      "35"
+    ]
+  },
+  "additiveExpression": {
+    "CPP14": [
+      "14"
+    ],
+    "Python3": [
+      "14"
+    ],
+    "JavaScript": [
+      "14"
+    ]
+  },
+  "literal": {
+    "CPP14": [
+      "51",
+      "51",
+      "51",
+      "51"
+    ],
+    "Python3": [
+      "51",
+      "51"
+    ],
+    "JavaScript": [
+      "51",
+      "51"
+    ]
+  },
+  "block": {
+    "CPP14": [
+      "37"
+    ],
+    "Python3": [
+      "37"
+    ],
+    "JavaScript": [
+      "37"
+    ]
+  },
+  "fieldModifier": {
+    "CPP14": [
+      "42"
+    ],
+    "JavaScript": [
+      "42"
+    ]
+  },
+  "classBodyDeclaration": {
+    "CPP14": [
+      "36"
+    ],
+    "Python3": [
+      "36"
+    ],
+    "JavaScript": [
+      "36"
+    ]
+  },
+  "blockStatements": {
+    "CPP14": [
+      "38"
+    ],
+    "Python3": [
+      "38"
+    ],
+    "JavaScript": [
+      "38"
+    ]
+  },
+  "conditionalAndExpression": {
+    "CPP14": [
+      "7"
+    ],
+    "Python3": [
+      "7"
+    ],
+    "JavaScript": [
+      "7"
+    ]
+  },
+  "emptyStatement": {
+    "CPP14": [
+      "31"
+    ],
+    "JavaScript": [
+      "31"
+    ]
+  },
+  "shiftExpression": {
+    "CPP14": [
+      "13"
+    ],
+    "Python3": [
+      "13"
+    ],
+    "JavaScript": [
+      "13"
+    ]
+  },
+  "statement": {
+    "CPP14": [
+      "2"
+    ],
+    "Python3": [
+      "2"
+    ],
+    "JavaScript": [
+      "2"
+    ]
+  },
+  "variableDeclaratorId": {
+    "CPP14": [
+      "53",
+      "53"
+    ],
+    "JavaScript": [
+      "53"
+    ]
+  },
+  "unannType": {
+    "CPP14": [
+      "43"
+    ]
+  },
+  "statementWithoutTrailingSubstatement": {
+    "CPP14": [
+      "26"
+    ],
+    "Python3": [
+      "26"
+    ]
+  },
+  "assignmentOperator": {
+    "CPP14": [
+      "22"
+    ],
+    "Python3": [
+      "22"
+    ],
+    "JavaScript": [
+      "22"
+    ]
+  },
+  "relationalExpression": {
+    "CPP14": [
+      "12"
+    ]
+  },
+  "doStatement": {
+    "CPP14": [
+      "19"
+    ],
+    "JavaScript": [
+      "19"
+    ]
+  },
+  "variableDeclaratorList": {
+    "CPP14": [
+      "40",
+      "45"
+    ],
+    "Python3": [
+      "40",
+      "45"
+    ],
+    "JavaScript": [
+      "40",
+      "45"
+    ]
+  },
+  "tryStatement": {
+    "CPP14": [
+      "28"
+    ],
+    "Python3": [
+      "28"
+    ],
+    "JavaScript": [
+      "28"
+    ]
+  },
+  "forStatementNoShortIf": {
+    "CPP14": [
+      "20"
+    ],
+    "Python3": [
+      "20"
+    ],
+    "JavaScript": [
+      "20"
+    ]
+  },
+  "ifThenElseStatementNoShortIf": {
+    "CPP14": [
+      "1"
+    ],
+    "Python3": [
+      "1"
+    ],
+    "JavaScript": [
+      "1"
+    ]
+  },
+  "forInit": {
+    "CPP14": [
+      "21"
+    ]
+  },
+  "annotationTypeDeclaration": {
+    "Python3": [
+      "57"
+    ]
+  },
+  "variableDeclarator": {
+    "CPP14": [
+      "41"
+    ],
+    "JavaScript": [
+      "41"
+    ]
+  },
+  "localVariableDeclarationStatement": {
+    "CPP14": [
+      "39"
+    ],
+    "JavaScript": [
+      "39"
+    ]
+  },
+  "variableInitializerList": {
+    "CPP14": [
+      "55"
+    ],
+    "Python3": [
+      "55"
+    ],
+    "JavaScript": [
+      "55"
+    ]
+  },
+  "whileStatementNoShortIf": {
+    "CPP14": [
+      "18"
+    ],
+    "Python3": [
+      "18"
+    ],
+    "JavaScript": [
+      "18"
+    ]
+  },
+  "equalityExpression": {
+    "CPP14": [
+      "11"
+    ]
+  },
+  "arrayInitializer": {
+    "CPP14": [
+      "54"
+    ],
+    "Python3": [
+      "54"
+    ],
+    "JavaScript": [
+      "54"
+    ]
+  },
+  "constantModifier": {
+    "CPP14": [
+      "42"
+    ],
+    "JavaScript": [
+      "42"
+    ]
+  },
+  "whileStatement": {
+    "CPP14": [
+      "18"
+    ],
+    "Python3": [
+      "18"
+    ],
+    "JavaScript": [
+      "18"
+    ]
+  },
+  "methodBody": {
+    "CPP14": [
+      "47"
+    ],
+    "Python3": [
+      "47"
+    ],
+    "JavaScript": [
+      "47"
+    ]
+  },
+  "unaryExpression": {
+    "CPP14": [
+      "16"
+    ],
+    "Python3": [
+      "16",
+      "16"
+    ],
+    "JavaScript": [
+      "16"
+    ]
+  },
+  "throwStatement": {
+    "CPP14": [
+      "33"
+    ],
+    "Python3": [
+      "33"
+    ],
+    "JavaScript": [
+      "33"
+    ]
+  },
+  "labeledStatement": {
+    "CPP14": [
+      "32"
+    ],
+    "JavaScript": [
+      "32"
+    ]
+  },
+  "conditionalExpression": {
+    "CPP14": [
+      "52"
+    ]
+  },
+  "arrayAccess_lfno_primary": {
+    "CPP14": [
+      "54"
+    ],
+    "Python3": [
+      "54"
+    ],
+    "JavaScript": [
+      "54"
+    ]
+  },
+  "assertStatement": {
+    "CPP14": [
+      "60"
+    ],
+    "Python3": [
+      "60"
+    ]
+  },
+  "ifThenElseStatement": {
+    "CPP14": [
+      "1"
+    ],
+    "Python3": [
+      "1"
+    ],
+    "JavaScript": [
+      "1"
+    ]
+  },
+  "identifier": {
+    "CPP14": [
+      "46"
+    ],
+    "Python3": [
+      "46"
+    ],
+    "JavaScript": [
+      "46"
+    ]
+  },
+  "switchStatement": {
+    "CPP14": [
+      "3"
+    ],
+    "JavaScript": [
+      "3"
+    ]
+  },
+  "methodDeclaration": {
+    "CPP14": [
+      "34"
+    ],
+    "Python3": [
+      "34"
+    ],
+    "JavaScript": [
+      "34"
+    ]
+  },
+  "catchClause": {
+    "CPP14": [
+      "29"
+    ],
+    "JavaScript": [
+      "29"
+    ]
+  },
+  "forStatement": {
+    "CPP14": [
+      "20"
+    ],
+    "Python3": [
+      "20"
+    ],
+    "JavaScript": [
+      "20"
+    ]
+  },
+  "argumentList": {
+    "CPP14": [
+      "49"
+    ],
+    "Python3": [
+      "49"
+    ],
+    "JavaScript": [
+      "49"
+    ]
+  },
+  "finally_": {
+    "JavaScript": [
+      "30"
+    ]
+  },
+  "inclusiveOrExpression": {
+    "CPP14": [
+      "8"
+    ],
+    "Python3": [
+      "8"
+    ]
+  },
+  "variableModifier": {
+    "CPP14": [
+      "42"
+    ],
+    "JavaScript": [
+      "42"
+    ]
+  }
+}
