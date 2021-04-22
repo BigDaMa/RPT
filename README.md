@@ -37,19 +37,15 @@ We compare the results of effectiveness and efficiency of our system with the fo
 - TransCoder: weakly-supervise translation model.
 
 ![eval1](/images/eval1.png )
-
+<!--
 ### Comparison with Code Search Engines
 We compare with two well-known code search engines:
 - Sourcerer: This system is based on Lucene Core, which indexes code like natural text.
 - CodeHow: We use CodeHow only to perform free-text queries over codebase and skip the process of API understanding as it requires external API documentations. 
-
 To make the baselines comparable, we change their inputs to raw programs in source language, and run them to retrieve similar programs in target language. And to maintain the fairness of the experiment, we remove the parts of their systems that require user efforts.
-
 ![eval2](/images/eval2.png )
-
 ### Comparison with other Representations on a Large Real-world Dataset
 The dataset used in this experiment is generated from the [Public Git Archive](https://github.com/src-d/datasets/tree/master/PublicGitArchive)~(PGA) - a database with more than 260,000 top bookmarked Git repositories from GitHub. The size of this dataset has reached 6TB. To save experiment equipment and time, under the premise of ensuring the validity of the experiment and the reproducibility of the data, we randomly sample a sufficiently large subset of this database. We choose the four programming languages with the most pushes on github - JavaScript, Python, Java, and C++. They are also representative of programming languages with different characteristics. Based on the number of stargazers, we pick 1% files in these four languages from PGA to be our raw dataset.
-
 To show the advantage of our system, we compare its results to other representation methods:
 - Our system: Our approach considers structural features, textual features and their dependency.
 - Structural: Only the structural part of our approach.
@@ -57,5 +53,5 @@ To show the advantage of our system, we compare its results to other representat
 - Structural+Textual: This representation is the combination of (2) and (3) without feature dependency.
 - Our system(W2V): Same as (1) except changing the textual feature from BoW to W2V. We train cross language word vector on PGA database.
 - Code2vec: The state-of-the-art code representation which transforms code syntax tree to a vector trained by neural network. For Java, we directly use the provided trained model to generate code vectors. For other languages, we train code vectors on PGA database. Then we determine the candidates by calculating the cosine similarity.
-
 ![eval3](/images/eval3.png )
+-->
